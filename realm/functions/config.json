@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "name": "upgradeInstanceType",
+        "private": false
+    }
+]
